@@ -1,2 +1,2 @@
-script to flatten a mesh 
-select the faces in edit mode that needs to be flattened and run the script
+script to flatten a cylindrical
+select the vertex in edit mode and run the script
